@@ -7,6 +7,7 @@
 * High Performance: Experience smooth, reliable operation thanks to our advanced infrastructure.
 * Fully compliant with **Discord Terms of Service**, fiveproxy proxy will automatically enforce the Discord rate limits and reject requests that exceed it.
 * Support for FiveM & Roblox and alot other games.
+* Trusted by top servers: *[ShootGG](https://discord.gg/shootgg)* & *[AriviRP](https://discord.gg/arivirp)*
 
 > *[Check It Out](https://fiveproxy.lol/) & https://fiveproxy.lol/*
 
